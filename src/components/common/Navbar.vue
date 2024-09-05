@@ -65,3 +65,4 @@ export default {
     </div>
   </nav>
 </template>
+<style scoped></style>
